@@ -6,7 +6,7 @@ Mastering the Fundamentals of mathematics and Advanced Concepts
      style="border: 1px solid #cccccc; max-width:400px; box-shadow:2px 3px 5px 0px #aaaaaa; margin-top: 20px"/>
 
 <div>
-<button class="btn btn-primary" @onclick="IncrementCount">구매하기</button>
+    <button class='btn btn-primary' @onclick='IncrementCount'>구매하기</button>
 </div>
 
 <div class="markdown-box">
