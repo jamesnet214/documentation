@@ -7,4 +7,6 @@ Mastering the Fundamentals of mathematics and Advanced Concepts
 
 <div class="markdown-box">
      출시일: 2023
+     
+     <button class="btn btn-primary" @onclick="IncrementCount">구매하기</button>
 </div>
