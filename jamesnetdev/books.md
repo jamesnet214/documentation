@@ -11,6 +11,6 @@ Mastering the Fundamentals of mathematics and Advanced Concepts
 </div>
 
 <div class="markdown-box">
-     출시일: 2023.04.29
+     출시일: 2023.04.29  
      저자: 이재웅, 구양
 </div>
