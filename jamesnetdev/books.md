@@ -11,11 +11,6 @@ Mastering the Fundamentals of mathematics and Advanced Concepts
 </div>
 
 #### 책 정보
-
 - 저자: 이재웅, 구양
 - 발행일: 2023.04.29  
 - 출판: 종이책, 전자책
-     
-- 발행일: 2023.04.29  
-- 저자: 이재웅, 구양
-- 발행 형식: 책, eBook
