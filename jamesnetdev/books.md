@@ -10,10 +10,8 @@ Mastering the Fundamentals of mathematics and Advanced Concepts
     <button class='btn btn-primary' onclick='location.href="payment"'>구매하기</button>
 </div>
 
-<div class="markdown-box">
-     <article class="markdown-body">
-     - 발행일: 2023.04.29  
-     - 저자: 이재웅, 구양
-     - 발행 형식: 책, eBook
-     <article class="markdown-body">
-</div>
+<article class="markdown-box">
+- 발행일: 2023.04.29  
+- 저자: 이재웅, 구양
+- 발행 형식: 책, eBook
+</article>
