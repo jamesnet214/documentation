@@ -13,7 +13,7 @@
 
 ## 라이프 쵸츠
 
-**우리가 개발자로서의 짧고 행복한 순간들을 기록한다.  (코딩 일상, 제품 언박싱, 오피스 인테리어 등)**
+우리가 개발자로서의 짧고 행복한 순간들을 기록한다.  (코딩 일상, 제품 언박싱, 오피스 인테리어 등)
 
 | [EP1](https://youtube.com/shorts/rh-cu5YtnSI?feature=share) | [EP2](https://youtube.com/shorts/PWkpWB_Pm10?feature=share) |
 |:---|:---|
