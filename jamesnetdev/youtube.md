@@ -13,6 +13,7 @@
 
 ## 라이프 쵸츠
 **우리가 개발자로서의 짧고 행복한 순간들을 기록한다.  (코딩 일상, 제품 언박싱, 오피스 인테리어 등)**
+
 | [EP1](https://youtube.com/shorts/rh-cu5YtnSI?feature=share) | [EP2](https://youtube.com/shorts/PWkpWB_Pm10?feature=share) |
 |:---|:---|
 | <img width="150" alt="image" src="https://user-images.githubusercontent.com/101777355/233140737-ba2e63dc-ef7c-4495-9558-2266ae974339.png"> | <img width="150" alt="image" src="https://user-images.githubusercontent.com/101777355/233141431-428f1413-adcb-4fbb-afb3-3f7deff36e08.png"> |
