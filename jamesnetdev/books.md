@@ -1,5 +1,5 @@
 
-<h2>WPF: INSIDE OUT</h2>
+<div style="font-size: 30px; font-weight: bold">WPF: INSIDE OUT</div>
 <h5>Mastering the Fundamentals of mathematics and Advanced Concepts</h5>
 
 <img src="https://user-images.githubusercontent.com/52397976/233013124-aecc6f04-0b56-491e-a123-b26f01d46c64.png"
