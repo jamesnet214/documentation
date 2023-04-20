@@ -43,7 +43,8 @@
     <td style="text-align: center"><font style="font-size: 13px;"><font style="font-size: 13px;">준비중</font></td>
   </tr>
 </table>
-네이버페이와 카카오페이를 통한 결제는 아직 준비중입니다.
+<font style="font-size: 13px;">네이버페이와 카카오페이를 통한 결제는 아직 준비중입니다.</font>  
+
 
 ### 배송정보
 | 수령인 | *** |
