@@ -3,10 +3,14 @@
 <table>
   <tr>
     <td rowspan="2"><img src="https://user-images.githubusercontent.com/52397976/233358306-4c2aeda8-f5c0-41c3-9de3-28b29f11b4cd.png" style="width:60px"/></td>
-    <td>WPF INSIDE OUT</td>
+    <td>
+      <font style="font-weight: bold">WPF INSIDE OUT</font>
+      <br/>
+      <font style="font-size: 14px">Mastering the Fundamentals of mathematics and Advanced Concepts</font>      
+    </td>
   </tr>
   <tr>
-    <td>Mastering the Fundamentals of mathematics and Advanced Concepts</td>
+    <td></td>
   </tr>
 </table>
 
