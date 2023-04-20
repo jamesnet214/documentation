@@ -26,7 +26,7 @@
 <table style="width: auto;
 display: block;">
   <tr>
-    <td style="text-align: center; font-weight: bold;bakground-color: #f6f8fa; width: 50%">계좌이체</td>
+    <td style="text-align: center; font-weight: bold;bakground-color: #f6f8fa; width: auto">계좌이체</td>
     <td colspan="2" style="text-align: center; font-weight: bold;bakground-color: #f6f8fa">간편결제</td>
     
   </tr>
