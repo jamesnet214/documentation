@@ -1,3 +1,25 @@
+<style>
+@media (min-width: 640.98px) {
+    .td1 {
+        width: auto;
+    }
+  .td2
+  {
+    
+  }
+}
+
+@media (min-width: 641px) {
+    .td1 {
+      width: 14%;
+    }
+  .td2
+  {
+    width: 86%;
+  }
+}
+</style>
+
 <span style="font-size:40px; font-weight: bold">주문하기</span>
 
 <font style="font-size: 13px;">해당 상품을 구매하시겠습니까?</font>  
@@ -7,8 +29,8 @@
 
 <table style="width: auto; display: block">
   <tr>
-    <td rowspan="2" style="width: 14%"><img src="https://user-images.githubusercontent.com/52397976/233358306-4c2aeda8-f5c0-41c3-9de3-28b29f11b4cd.png" style="max-width: 100px; width:100%"/></td>
-    <td style="width: 86%">
+    <td rowspan="2" class="td1"><img src="https://user-images.githubusercontent.com/52397976/233358306-4c2aeda8-f5c0-41c3-9de3-28b29f11b4cd.png" style="max-width: 100px; width:100%"/></td>
+    <td class="td2">
       <font style="font-weight: bold">WPF INSIDE OUT</font> <font style="font-size: 13px;">2023 초판</font>
       <br/>
       <font style="font-size: 13px;">Mastering the Fundamentals of mathematics and Advanced Concepts</font>      
