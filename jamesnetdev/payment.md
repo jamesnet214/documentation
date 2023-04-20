@@ -7,8 +7,8 @@
 
 <table style="width: auto; display: block">
   <tr>
-    <td rowspan="2" style="width: 10%"><img src="https://user-images.githubusercontent.com/52397976/233358306-4c2aeda8-f5c0-41c3-9de3-28b29f11b4cd.png" style="max-width: 100px; width:100%"/></td>
-    <td style="width: 90%">
+    <td rowspan="2" style="width: 14%"><img src="https://user-images.githubusercontent.com/52397976/233358306-4c2aeda8-f5c0-41c3-9de3-28b29f11b4cd.png" style="max-width: 100px; width:100%"/></td>
+    <td style="width: 86%">
       <font style="font-weight: bold">WPF INSIDE OUT</font> <font style="font-size: 13px;">2023 초판</font>
       <br/>
       <font style="font-size: 13px;">Mastering the Fundamentals of mathematics and Advanced Concepts</font>      
