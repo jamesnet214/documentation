@@ -1,6 +1,7 @@
 <span style="font-size:40px; font-weight: bold">주문하기</span>
 
-해당 상품을 구매하시겠습니까?
+<font style="font-size: 13px;">해당 상품을 구매하시겠습니까?</font>  
+
 
 **상품 정보**
 
@@ -21,6 +22,7 @@
 </table>
 <font style="font-size: 13px;">전자책(eBook)은 별도로 판매하지 않으며, 종이책 구매시 이메일로 전자책 등록 코드를 발송해드립니다.</font>  
 
+<p/>
 
 **결제 방식**
 <table style="width: auto;
@@ -46,7 +48,7 @@ display: block;">
 </table>
 <font style="font-size: 13px;">네이버페이, 카카오페이 결제는 3주 내로 준비될 준비중입니다.</font>  
 
-<br/>
+<p/>
 
 **상품 정보**
 
