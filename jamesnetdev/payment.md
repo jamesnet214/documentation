@@ -1,4 +1,6 @@
-<span style="font-size:50px; font-weight: bold">Order</span>
+<span style="font-size:50px; font-weight: bold">주문하기</span>
+
+<span style="font-size:30px; font-weight: bold">상품정보</span>
 
 <table>
   <tr>
@@ -15,6 +17,8 @@
     </td>
   </tr>
 </table>
+
+<span style="font-size:30px; font-weight: bold">결제방식</span>
 
 ### 구매정보
 |주문상품|WPF Inside Out(종이책+온라인 열람권)|
