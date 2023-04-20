@@ -23,9 +23,8 @@
 
 
 ### 결제 방식
-<table style="display: block;
+<table style="table-layout: fixed;
     width: 100%;
-    overflow-x: auto;
 ">
   <tr>
     <td style="text-align: center; font-weight: bold;bakground-color: #f6f8fa; width: 50%">계좌이체</td>
