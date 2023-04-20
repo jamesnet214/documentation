@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-<span style="font-size:30px; font-weight: bold">결제방식</span>
+- 전자책만 별도로 구매할 수 없습니다.
 
 ### 결제 방식
 |주문상품|WPF Inside Out(종이책+온라인 열람권)|
