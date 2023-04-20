@@ -4,7 +4,7 @@
 
 ### 상품 정보
 
-<table>
+<table style="max-width: 385px">
   <tr>
     <td rowspan="2" style="width:90px"><img src="https://user-images.githubusercontent.com/52397976/233358306-4c2aeda8-f5c0-41c3-9de3-28b29f11b4cd.png" style="max-width: 100px; width:100%"/></td>
     <td>
@@ -27,7 +27,7 @@
 display: block;">
   <tr>
     <td style="text-align: center; font-weight: bold;bakground-color: #f6f8fa; width: 60%">계좌이체</td>
-    <td colspan="2" style="text-align: center; font-weight: bold;bakground-color: #f6f8fa">간편결제</td>
+    <td colspan="2" style="text-align: center; font-weight: bold;bakground-color: #f6f8fa; width: 155px">간편결제</td>
     
   </tr>
   <tr style="background-color: #ffffff">
