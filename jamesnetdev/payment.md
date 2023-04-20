@@ -24,13 +24,13 @@
 
 ### 결제 방식
 <table>
-  <tr style="bakground-color: #f6f8fa">
+  <tr>
     <td style="text-align: center; font-weight: bold;bakground-color: #f6f8fa">계좌이체</td>
     <td style="text-align: center; font-weight: bold;bakground-color: #f6f8fa">네이버페이</td>
     <td style="text-align: center; font-weight: bold;bakground-color: #f6f8fa">카카오페이</td>
   </tr>
   <tr style="background-color: #ffffff">
-    <td rowspan="2" style="text-align: center">
+    <td rowspan="2" style="text-align: center; background-color: blue">
       <font style="font-size: 13px;">카카오뱅크 이재웅</font>
       <br/>
       <font style="font-size: 13px;">3333-03-9298326</font>
