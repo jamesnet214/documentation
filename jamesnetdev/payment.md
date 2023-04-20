@@ -19,7 +19,7 @@
     </td>
   </tr>
 </table>
-<font style="font-size: 13px;">전자책(eBook)은 별도로 판매하지 않으며 종이책 구매시 이메일로 등록 코드가 발송됩니다.</font>  
+<font style="font-size: 13px;">전자책(eBook)은 별도로 판매하지 않으며 종이책 구매시 이메일로 전자책 등록 코드를 발송해드립니다.</font>  
 
 
 ### 결제 방식
