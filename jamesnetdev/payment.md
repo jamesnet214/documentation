@@ -6,11 +6,13 @@
     <td>
       <font style="font-weight: bold">WPF INSIDE OUT</font>
       <br/>
-      <font style="font-size: 14px">Mastering the Fundamentals of mathematics and Advanced Concepts</font>      
+      <font style="font-size: 13px">Mastering the Fundamentals of mathematics and Advanced Concepts</font>      
     </td>
   </tr>
   <tr>
-    <td></td>
+    <td>
+      <font style="font-size: 13px">금액 50,000원 (종이 책 + 전자책 패키지)</font>
+    </td>
   </tr>
 </table>
 
