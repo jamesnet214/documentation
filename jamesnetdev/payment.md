@@ -1,5 +1,18 @@
 <span style="font-size:50px; font-weight: bold">주문</span>
 
+<table>
+  <tr>
+    <td colspan="2"><img src="https://user-images.githubusercontent.com/52397976/233358306-4c2aeda8-f5c0-41c3-9de3-28b29f11b4cd.png" style="width:80px"/></td>
+    <td>WPF INSIDE OUT</td>
+  </tr>
+  <tr>
+    <td>WPF INSIDE OUT - Mastering the Fundamentals of mathematics and Advanced Concepts</td>
+  </tr>
+</table>
+
+
+
+
 ### 구매정보
 |주문상품|WPF Inside Out(종이책+온라인 열람권)|
 |:--:|:--:|
