@@ -25,7 +25,7 @@
 ### 결제 방식
 |계좌이체 | 네이버페이 | 카카오페이 |
 |:--:|:--:|:---:|
-| <font style="font-size: 13px;">3333-03-9298326</font> | <img src="https://user-images.githubusercontent.com/52397976/233457054-7dc9dacc-2032-46eb-a56e-57f755d7a944.png" style="width:50px"/> | <img src="https://user-images.githubusercontent.com/52397976/233456541-46f53954-e73b-4028-a118-33d910703027.png" style="width:50px; margin-top: -2px"/> |
+| <font style="font-size: 13px;">3333-03-9298326</font> | <img src="https://user-images.githubusercontent.com/52397976/233457054-7dc9dacc-2032-46eb-a56e-57f755d7a944.png" style="width:50px; margin-top: -3px"/> | <img src="https://user-images.githubusercontent.com/52397976/233456541-46f53954-e73b-4028-a118-33d910703027.png" style="width:50px; margin-top: -3px"/> |
 | <font style="font-size: 13px;">카카오뱅크 이재웅</font> | <font style="font-size: 13px;">준비중</font> | <font style="font-size: 13px;">준비중</font> |
 
 
