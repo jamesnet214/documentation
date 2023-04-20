@@ -5,7 +5,7 @@
 
 **상품 정보**
 
-<table>
+<table style="width: 100%">
   <tr>
     <td rowspan="2" style="width:90px"><img src="https://user-images.githubusercontent.com/52397976/233358306-4c2aeda8-f5c0-41c3-9de3-28b29f11b4cd.png" style="max-width: 100px; width:100%"/></td>
     <td style="width: calc(100% - 90px">
