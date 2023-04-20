@@ -28,6 +28,27 @@
 | <font style="font-size: 13px;">카카오뱅크 이재웅</font> | <img src="https://user-images.githubusercontent.com/52397976/233457054-7dc9dacc-2032-46eb-a56e-57f755d7a944.png" style="width:50px; margin-top: -3px"/> | <img src="https://user-images.githubusercontent.com/52397976/233456541-46f53954-e73b-4028-a118-33d910703027.png" style="width:50px; margin-top: -3px"/> |
 | <font style="font-size: 13px;">3333-03-9298326</font> | <font style="font-size: 13px;">준비중</font> | <font style="font-size: 13px;">준비중</font> |
 
+<table>
+  <tr>
+    <td style="text-align: center">계좌이체</td>
+    <td style="text-align: center">네이버페이</td>
+    <td style="text-align: center">카카오페이</td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="text-align: center">
+      <font style="font-size: 13px;">카카오뱅크 이재웅</font>
+      <br/>
+      <font style="font-size: 13px;">3333-03-9298326</font>
+    </td>
+    <td style="text-align: center"><font style="font-size: 13px;"><img src="https://user-images.githubusercontent.com/52397976/233457054-7dc9dacc-2032-46eb-a56e-57f755d7a944.png" style="width:50px; margin-top: -3px"/></font></td>
+    <td style="text-align: center"><font style="font-size: 13px;"><img src="https://user-images.githubusercontent.com/52397976/233456541-46f53954-e73b-4028-a118-33d910703027.png" style="width:50px; margin-top: -3px"/></font></td>
+  </tr>
+  <tr>
+    <td style="text-align: center"><font style="font-size: 13px;"><font style="font-size: 13px;">준비중</font></td>
+    <td style="text-align: center"><font style="font-size: 13px;"><font style="font-size: 13px;">준비중</font></td>
+  </tr>
+</table>
+
 
 ### 배송정보
 | 수령인 | *** |
