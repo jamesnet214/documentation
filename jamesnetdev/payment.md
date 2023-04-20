@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td rowspan="2" style="width:60px"><img src="https://user-images.githubusercontent.com/52397976/233358306-4c2aeda8-f5c0-41c3-9de3-28b29f11b4cd.png" style="width:100%"/></td>
+    <td rowspan="2" style="width:80px; height: 120px"><img src="https://user-images.githubusercontent.com/52397976/233358306-4c2aeda8-f5c0-41c3-9de3-28b29f11b4cd.png" style="width:100%"/></td>
     <td>
       <font style="font-weight: bold">WPF INSIDE OUT</font>
       <br/>
