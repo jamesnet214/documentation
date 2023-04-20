@@ -23,7 +23,8 @@
 
 
 ### 결제 방식
-<table style="table-layout: fixed;
+<table style="
+    margin: 10px 0;
     width: 100%;
 ">
   <tr>
