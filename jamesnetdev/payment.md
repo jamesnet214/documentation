@@ -1,6 +1,8 @@
-<span style="font-size:50px; font-weight: bold">주문하기</span>
+<span style="font-size:40px; font-weight: bold">주문하기</span>
 
-<span style="font-size:30px; font-weight: bold">상품정보</span>
+해당 상품을 구매하시겠습니까?
+
+### 상품 정보
 
 <table>
   <tr>
@@ -20,7 +22,7 @@
 
 <span style="font-size:30px; font-weight: bold">결제방식</span>
 
-### 구매정보
+### 결제 방식
 |주문상품|WPF Inside Out(종이책+온라인 열람권)|
 |:--:|:--:|
 |구문수량|* 권|
