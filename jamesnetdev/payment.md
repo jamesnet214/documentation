@@ -26,8 +26,8 @@
 <table style="width: 100%; max-width: 800px">
   <tr>
     <td style="text-align: center; font-weight: bold;bakground-color: #f6f8fa; width: 50%">계좌이체</td>
-    <td style="text-align: center; font-weight: bold;bakground-color: #f6f8fa">네이버페이</td>
-    <td style="text-align: center; font-weight: bold;bakground-color: #f6f8fa">카카오페이</td>
+    <td colspan="2" style="text-align: center; font-weight: bold;bakground-color: #f6f8fa">간편결제</td>
+    
   </tr>
   <tr style="background-color: #ffffff">
     <td rowspan="2" style="text-align: center; background-color: #f6f8fa">
