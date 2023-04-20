@@ -6,7 +6,7 @@
     <td>WPF INSIDE OUT</td>
   </tr>
   <tr>
-    <td>WPF INSIDE OUT - Mastering the Fundamentals of mathematics and Advanced Concepts</td>
+    <td>Mastering the Fundamentals of mathematics and Advanced Concepts</td>
   </tr>
 </table>
 
