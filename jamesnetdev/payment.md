@@ -1,4 +1,4 @@
-<span style="font-size:50px; font-weight: bold">주문</span>
+<span style="font-size:50px; font-weight: bold">Order</span>
 
 <table>
   <tr>
