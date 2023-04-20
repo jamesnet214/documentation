@@ -10,7 +10,7 @@
     <td>
       <font style="font-weight: bold">WPF INSIDE OUT</font>
       <br/>
-      <font style="font-size: 13px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis">Mastering the Fundamentals of mathematics and Advanced Concepts</font>      
+      <font style="font-size: 13px;">Mastering the Fundamentals of mathematics and Advanced Concepts</font>      
     </td>
   </tr>
   <tr>
