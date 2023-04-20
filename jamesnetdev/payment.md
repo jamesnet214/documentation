@@ -23,11 +23,10 @@
 
 
 ### 결제 방식
-<table style="
+<table>
+  <tr style="
     margin: 10px 0;
-    width: 100%;
-">
-  <tr>
+    width: 100%;">
     <td style="text-align: center; font-weight: bold;bakground-color: #f6f8fa; width: 50%">계좌이체</td>
     <td colspan="2" style="text-align: center; font-weight: bold;bakground-color: #f6f8fa">간편결제</td>
     
