@@ -2,7 +2,8 @@
 
 <table>
   <tr>
-    <td rowspan="2"><img src="https://user-images.githubusercontent.com/52397976/233358306-4c2aeda8-f5c0-41c3-9de3-28b29f11b4cd.png" style="width:80px"/></td>
+    <td rowspan="2"><img src="https://user-images.githubusercontent.com/52397976/233358306-4c2aeda8-f5c0-41c3-9de3-28b29f11b4cd.png" style="width:6
+      0px"/></td>
     <td>WPF INSIDE OUT</td>
   </tr>
   <tr>
