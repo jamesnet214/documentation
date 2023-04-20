@@ -1,11 +1,11 @@
 # Lectures
 
 ## 현재 진행중인 강연
-- 인프라지스틱스 WPF 밋업 (2023.04.27)
+- 인프라지스틱스 WPF 밋업 (2023.04.27)[참여하기](https://cafe.naver.com/infragisticskorea)
   - WPF 알아야할 팁들 2부
-- WPF 스터디 시즌 3 (2023.04.29)[신청하기](https://forum.dotnetdev.kr/t/wpf-3/6795)
+- WPF 스터디 시즌 3 (2023.04.29)[참여하기](https://forum.dotnetdev.kr/t/wpf-3/6795)
   - WPF Inside Out 책과 함께 하는 스터디
-- 닷넷 컨퍼런스 L!VE (2023.04.27)
+- 닷넷 컨퍼런스 L!VE (2023.05.16)[참여하기]([https://cafe.naver.com/infragisticskorea](https://www.dotnetconf.kr/))
   - Avalonia UI XAML 살펴보기 
 
 ## 지난 강연 목록
