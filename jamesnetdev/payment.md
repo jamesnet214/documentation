@@ -30,11 +30,11 @@
 
 <table>
   <tr>
-    <td style="text-align: center">계좌이체</td>
-    <td style="text-align: center">네이버페이</td>
-    <td style="text-align: center">카카오페이</td>
+    <td style="text-align: center; font-weight: bold">계좌이체</td>
+    <td style="text-align: center; font-weight: bold">네이버페이</td>
+    <td style="text-align: center; font-weight: bold">카카오페이</td>
   </tr>
-  <tr>
+  <tr style="background-color: #ffffff">
     <td rowspan="2" style="text-align: center">
       <font style="font-size: 13px;">카카오뱅크 이재웅</font>
       <br/>
@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td style="text-align: center"><font style="font-size: 13px;"><font style="font-size: 13px;">준비중</font></td>
-    <td style="text-align: center"><font style="font-size: 13px;"><font style="font-size: 13px;">준비중</font></td>
+    <td style="text-align: center"><font style="font-size: 13px;"><font style="font-size: 13px; bakground-color: #f6f8fa">준비중</font></td>
   </tr>
 </table>
 
