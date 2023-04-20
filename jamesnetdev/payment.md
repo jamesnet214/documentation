@@ -30,7 +30,7 @@
     <td style="text-align: center; font-weight: bold;bakground-color: #f6f8fa">카카오페이</td>
   </tr>
   <tr style="background-color: #ffffff">
-    <td rowspan="2" style="text-align: center; background-color: blue">
+    <td rowspan="2" style="text-align: center; background-color: #f6f8fa">
       <font style="font-size: 13px;">카카오뱅크 이재웅</font>
       <br/>
       <font style="font-size: 13px;">3333-03-9298326</font>
