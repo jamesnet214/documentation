@@ -7,7 +7,8 @@
 -----------------
 
 <div>
-    <button class='btn btn-primary' onclick='location.href="payment"'>구매하기</button>
+     
+    <button class='btn btn-primary' onclick='location.href="payment"' StartIcon='@Icons.Material.Filled.AddShoppingCart'>구매하기</button>
 </div>
 
 ##### 상세 정보
