@@ -32,6 +32,12 @@
 
 <br/>
 <br/>
+제임스 타임랩스2 이미지 
+![KakaoTalk_20230425_030702947_02](https://user-images.githubusercontent.com/101777355/234114422-fd086a1e-502d-4810-9001-0aad0f9a375c.jpg)
+
+제임스 타임랩스3 이미지
+![KakaoTalk_20230425_030702947_01](https://user-images.githubusercontent.com/101777355/234114451-433b05cf-3b42-4252-8af1-61eb8842ff92.jpg)
+
 
 - 라이브 방송 링크 
   - EP1:https://www.youtube.com/watch?v=XRKo7svG9-k&t=727s
@@ -41,10 +47,10 @@
 - 쇼츠 영상 
   - 언박싱 로지텍 : https://www.youtube.com/shorts/qLDp0gELj2E
   - 언방싱 샤오미 : https://www.youtube.com/shorts/vDJAvlCdsKc
-  - 제임스 타임랩스: https://www.youtube.com/shorts/oZCqmamB8LU
-  - 빅키 타임랩스: https://www.youtube.com/shorts/GgwOKawpjqg
-  - 빅키 타임랩스: https://www.youtube.com/shorts/1HIVsf2NlEQ
-  - 제임스 타임랩스: https://www.youtube.com/shorts/PWkpWB_Pm10
-  - 제임스 타임랩스: https://www.youtube.com/shorts/rh-cu5YtnSI
+  - 제임스 타임랩스1: https://www.youtube.com/shorts/oZCqmamB8LU
+  - 빅키 타임랩스 1: https://www.youtube.com/shorts/GgwOKawpjqg
+  - 빅키 타임랩스2: https://www.youtube.com/shorts/1HIVsf2NlEQ
+  - 제임스 타임랩스2: https://www.youtube.com/shorts/PWkpWB_Pm10
+  - 제임스 타임랩스3: https://www.youtube.com/shorts/rh-cu5YtnSI
   
 
