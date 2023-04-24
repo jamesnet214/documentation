@@ -42,5 +42,12 @@
     <td style="border: none"><img width="150" alt="image" src="https://user-images.githubusercontent.com/101777355/234084518-28d1cb17-2bb1-4365-ab07-14e97d67b02d.jpg"></td>
     <td style="border: none"><img width="150" alt="image" src="https://user-images.githubusercontent.com/101777355/234084625-caba3edb-e1ff-457b-9c8b-c8c5be964b3c.jpg"></td>
   </tr>
+  <tr>
+    <td>언박싱 로지텍 마우스</td>
+    <td>언박싱 샤오미 라이트바</td>
+    <td>코딩 타임랩스</td>
+    <td>코딩 타임랩스</td>
+    <td>코딩 타임랩스</td>
+  </tr>
 </table>
 
