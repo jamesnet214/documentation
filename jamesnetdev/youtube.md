@@ -33,7 +33,8 @@
 <br/>
 <br/>
 제임스 타임랩스2 이미지 
-![KakaoTalk_20230425_030702947_02](https://user-images.githubusercontent.com/101777355/234114422-fd086a1e-502d-4810-9001-0aad0f9a375c.jpg)
+![KakaoTalk_20230425_030702947_02](https://user-images.githubusercontent.com/101777355/234115612-4d8266c0-aee8-41a3-b581-ddf1e671b618.jpg)
+
 
 제임스 타임랩스3 이미지
 ![KakaoTalk_20230425_030702947_01](https://user-images.githubusercontent.com/101777355/234114451-433b05cf-3b42-4252-8af1-61eb8842ff92.jpg)
