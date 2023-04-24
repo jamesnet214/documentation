@@ -33,6 +33,18 @@
 <br/>
 <br/>
 
-- asdfasd
-- sdf
+- 라이브 방송 링크 
+  - EP1:https://www.youtube.com/watch?v=XRKo7svG9-k&t=727s
+  - EP2:https://www.youtube.com/watch?v=9iBRBRN8pPU&t=279s
+  - EP3:https://www.youtube.com/watch?v=8nPgWLrhdS0&t=78s
+  - EP4:https://www.youtube.com/watch?v=ft9Pn_Id3-8&t=10185s
+- 쇼츠 영상 
+  - 언박싱 로지텍 : https://www.youtube.com/shorts/qLDp0gELj2E
+  - 언방싱 샤오미 : https://www.youtube.com/shorts/vDJAvlCdsKc
+  - 제임스 타임랩스: https://www.youtube.com/shorts/oZCqmamB8LU
+  - 빅키 타임랩스: https://www.youtube.com/shorts/GgwOKawpjqg
+  - 빅키 타임랩스: https://www.youtube.com/shorts/1HIVsf2NlEQ
+  - 제임스 타임랩스: https://www.youtube.com/shorts/PWkpWB_Pm10
+  - 제임스 타임랩스: https://www.youtube.com/shorts/rh-cu5YtnSI
+  
 - dfdf
