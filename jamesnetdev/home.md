@@ -12,9 +12,16 @@
 
 
 
-페이스북 이미지  : ![Facebook_logo_(square)](https://user-images.githubusercontent.com/101777355/234127205-9b1a0680-c806-4bfc-b287-36ff20eacf44.png)
+페이스북 이미지  : 
+ <img width="200" alt="image" src="https://user-images.githubusercontent.com/101777355/234127205-9b1a0680-c806-4bfc-b287-36ff20eacf44.png">
+ 
+ 인스타 이미지:
+ <img width="200" alt="image" src="https://user-images.githubusercontent.com/101777355/234128633-8f0c2b1b-566b-4fa7-ad78-7ae4a83dcb27.png">
+ 
 ## About James
- 프로필 이미지 :![KakaoTalk_20230425_070614759](https://user-images.githubusercontent.com/101777355/234126965-eecfbc20-c0df-4061-b691-6d40fe13b1ba.png)
+
+ 프로필 이미지 :
+  <img width="200" alt="image" src="https://user-images.githubusercontent.com/101777355/234126965-eecfbc20-c0df-4061-b691-6d40fe13b1ba.png">
 
 페이스북 ID: 이재웅 
 link : https://www.facebook.com/jamesnet214
@@ -23,7 +30,8 @@ insta id : jamesnet214
 link: https://www.instagram.com/jamesnet214/?igshid=YmMyMTA2M2Y%3D
 
 ## About Vicky 
-프로필 이미지 :![KakaoTalk_20230425_070614759_01](https://user-images.githubusercontent.com/101777355/234127899-02d445bc-73d1-458c-8d58-001efafe9a93.jpg)
+프로필 이미지 :
+ <img width="200" alt="image" src="https://user-images.githubusercontent.com/101777355/234127899-02d445bc-73d1-458c-8d58-001efafe9a93.jpg">
 
 페이스북 ID: Yang Qu
 link:https://www.facebook.com/profile.php?id=100091905613316
