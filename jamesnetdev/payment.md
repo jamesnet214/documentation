@@ -68,7 +68,7 @@ display: block;">
     <td style="text-align: center"><font style="font-size: 13px;"><font style="font-size: 13px;">준비중</font></td>
   </tr>
 </table>
-<font style="font-size: 13px;">네이버페이, 카카오페이 결제는 3주 내로 준비될 준비중입니다.</font>  
+<font style="font-size: 13px;">네이버페이, 카카오페이 결제는 3주 내로 준비중입니다.</font>  
 
 <p/>
 
