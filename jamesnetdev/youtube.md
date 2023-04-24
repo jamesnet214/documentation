@@ -26,14 +26,10 @@
 
 
 
-| <img width="150" alt="image" src="https://user-images.githubusercontent.com/101777355/233140737-ba2e63dc-ef7c-4495-9558-2266ae974339.png"> | <img width="150" alt="image" src="https://user-images.githubusercontent.com/101777355/233141431-428f1413-adcb-4fbb-afb3-3f7deff36e08.png"> |
-|:---|:---|
-| [Unboxing_logitech LIFT](https://user-images.githubusercontent.com/101777355/234079981-943a979e-d096-4d92-9c12-a49574b7f704.jpg) | [EP2](https://youtube.com/shorts/PWkpWB_Pm10?feature=share) |
+| <img width="150" alt="image" src="https://user-images.githubusercontent.com/101777355/234081919-b12107d7-3150-4276-b59e-e57c633a6523.jpg"> |  <img width="150" alt="image" src="https://user-images.githubusercontent.com/101777355/234084266-3cc81fe1-feb2-41c2-b36f-56444463baec.jpg"> | <img width="150" alt="image" src="https://user-images.githubusercontent.com/101777355/234084366-8dc97f53-144a-45c3-8fc4-c205b67f9a03.jpg"> | <img width="150" alt="image" src="https://user-images.githubusercontent.com/101777355/234084518-28d1cb17-2bb1-4365-ab07-14e97d67b02d.jpg"> | <img width="150" alt="image" src="https://user-images.githubusercontent.com/101777355/234084625-caba3edb-e1ff-457b-9c8b-c8c5be964b3c.jpg"> |
+|:---:|:---:|:---:|:---:|:---:|
+| [Unboxing_logitech LIFT](https://www.youtube.com/shorts/qLDp0gELj2E) | [Vicky|Unboxing_Xiaomi Moniter Screen Light Bar](https://www.youtube.com/shorts/vDJAvlCdsKc) | [James|Korean SoftWare Enginner Coding Timelapse](https://www.youtube.com/shorts/oZCqmamB8LU) | [Vicky|Home Coding-Timelapse](https://www.youtube.com/shorts/GgwOKawpjqg) | [Vicky|Home Coding-Timelapse](https://www.youtube.com/shorts/1HIVsf2NlEQ) |
 
 
-우리가 개발자로서의 짧고 행복한 순간들을 기록한다.  (코딩 일상, 제품 언박싱, 오피스 인테리어 등)
 
-| [EP1](https://youtube.com/shorts/rh-cu5YtnSI?feature=share) | [EP2](https://youtube.com/shorts/PWkpWB_Pm10?feature=share) |
-|:---|:---|
-| <img width="150" alt="image" src="https://user-images.githubusercontent.com/101777355/233140737-ba2e63dc-ef7c-4495-9558-2266ae974339.png"> | <img width="150" alt="image" src="https://user-images.githubusercontent.com/101777355/233141431-428f1413-adcb-4fbb-afb3-3f7deff36e08.png"> |
 
