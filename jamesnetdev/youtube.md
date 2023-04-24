@@ -27,6 +27,7 @@
 | <img width="20" alt="image" src="https://user-images.githubusercontent.com/101777355/234078794-1e96d806-f5a0-4837-8280-19280e8b8432.png"> |Shorts|
 |:---:|:---:|
 
+<br/>
 
 <div class="table-container">
     <table class="shorts-table">
