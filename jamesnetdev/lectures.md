@@ -22,8 +22,8 @@
 - .NET Conference Seoul 2023
   - Microsoft DevKit 2023 미리보기
 - .NET Conference Mini 2022.09
-  - MAUI IOS 개발하기
-- .NET Conference Mini 2022.05
+  - MAUI IOS 개발하기[영상 보러가기](https://www.youtube.com/watch?v=Z6Z3qgHYaOg&t=7s)
+- .NET Conference Mini 2022.05[영상 보러가기](https://www.youtube.com/watch?v=W95lo-337Q8)
   - WPF Binding 살펴보기
 - .NET Conference Mini 2021.05
   - Blazor Autentication OAuth 2.0 구현하기
