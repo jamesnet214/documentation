@@ -28,7 +28,26 @@
 |:---:|:---:|
 
 
-
+    <div class="table-container">
+        <table class="shorts-table">
+            <tr>
+                <td><img alt="image" src="https://user-images.githubusercontent.com/101777355/234081919-b12107d7-3150-4276-b59e-e57c633a6523.jpg"></td>
+                <td><img alt="image" src="https://user-images.githubusercontent.com/101777355/234084266-3cc81fe1-feb2-41c2-b36f-56444463baec.jpg"></td>
+                <td><img alt="image" src="https://user-images.githubusercontent.com/101777355/234084366-8dc97f53-144a-45c3-8fc4-c205b67f9a03.jpg"></td>
+                <td><img alt="image" src="https://user-images.githubusercontent.com/101777355/234084518-28d1cb17-2bb1-4365-ab07-14e97d67b02d.jpg"></td>
+                <td><img alt="image" src="https://user-images.githubusercontent.com/101777355/234084625-caba3edb-e1ff-457b-9c8b-c8c5be964b3c.jpg"></td>
+            </tr>
+            <tr>
+                <td>
+                    로지텍 마우스
+                </td>
+                <td>샤오미 라이트바</td>
+                <td>코딩 타임랩스</td>
+                <td>코딩 타임랩스</td>
+                <td>코딩 타임랩스</td>
+            </tr>
+        </table>
+    </div>
   
 
 <br/>
