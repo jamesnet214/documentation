@@ -35,9 +35,9 @@
 
 <style>
   .shorts-table {
-    border-collapse:collapse;
+    border: none;
+    outline: none;
   }
-
 </style>
 
 
