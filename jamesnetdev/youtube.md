@@ -34,7 +34,7 @@
 | [Unboxing_logitech LIFT](https://www.youtube.com/shorts/qLDp0gELj2E) | [Vicky|Unboxing_Xiaomi Moniter Screen Light Bar](https://www.youtube.com/shorts/vDJAvlCdsKc) | [James|Korean SoftWare Enginner Coding Timelapse](https://www.youtube.com/shorts/oZCqmamB8LU) | [Vicky|Home Coding-Timelapse](https://www.youtube.com/shorts/GgwOKawpjqg) | [Vicky|Home Coding-Timelapse](https://www.youtube.com/shorts/1HIVsf2NlEQ) |
 
 
-<table style="border: 0px">
+<table style="border: 0px; border-collapse: collapse;">
   <tr>
     <td style="border: 0px"><img width="150" alt="image" src="https://user-images.githubusercontent.com/101777355/234081919-b12107d7-3150-4276-b59e-e57c633a6523.jpg"></td>
     <td style="border: 0px"><img width="150" alt="image" src="https://user-images.githubusercontent.com/101777355/234084266-3cc81fe1-feb2-41c2-b36f-56444463baec.jpg"></td>
