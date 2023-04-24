@@ -35,8 +35,11 @@
 
 <style>
   .shorts-table {
+    border-collapse: collapse;
     border: none;
-    outline: none;
+  }
+  .shorts-table td, th {
+    border: none;
   }
 </style>
 
