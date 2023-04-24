@@ -1,4 +1,4 @@
-# 유튜브 Jamesnet
+# [로고 이미지]Jamesnet
 
 [바로가기](https://www.youtube.com/channel/@jamesnet214)
 
