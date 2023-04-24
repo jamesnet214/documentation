@@ -20,22 +20,22 @@
  
 ## About James
 
- 프로필 이미지 :
-  <img width="200" alt="image" src="https://user-images.githubusercontent.com/101777355/234126965-eecfbc20-c0df-4061-b691-6d40fe13b1ba.png">
+ - 프로필 이미지 :
+ - <img width="200" alt="image" src="https://user-images.githubusercontent.com/101777355/234126965-eecfbc20-c0df-4061-b691-6d40fe13b1ba.png">
 
-페이스북 ID: 이재웅 
-link : https://www.facebook.com/jamesnet214
+- 페이스북 ID: 이재웅 
+- link : https://www.facebook.com/jamesnet214
 
-insta id : jamesnet214
-link: https://www.instagram.com/jamesnet214/?igshid=YmMyMTA2M2Y%3D
+- insta id : jamesnet214
+- link: https://www.instagram.com/jamesnet214/?igshid=YmMyMTA2M2Y%3D
 
 ## About Vicky 
-프로필 이미지 :
- <img width="200" alt="image" src="https://user-images.githubusercontent.com/101777355/234127899-02d445bc-73d1-458c-8d58-001efafe9a93.jpg">
+- 프로필 이미지 :
+ - <img width="200" alt="image" src="https://user-images.githubusercontent.com/101777355/234127899-02d445bc-73d1-458c-8d58-001efafe9a93.jpg">
 
-페이스북 ID: Yang Qu
-link:https://www.facebook.com/profile.php?id=100091905613316
+- 페이스북 ID: Yang Qu
+- link:https://www.facebook.com/profile.php?id=100091905613316
 
-insta id : vickyqu115
-link: https://www.instagram.com/vickyqu115/?igshid=YmMyMTA2M2Y%3D
+- insta id : vickyqu115
+- link: https://www.instagram.com/vickyqu115/?igshid=YmMyMTA2M2Y%3D
 
