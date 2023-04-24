@@ -28,7 +28,7 @@
 |:---:|:---:|
 
 
-
+<div class="table-container">
 <table class="table-container">
   <tr>
     <td><img width="150" alt="image" src="https://user-images.githubusercontent.com/101777355/234081919-b12107d7-3150-4276-b59e-e57c633a6523.jpg"></td>
@@ -45,6 +45,8 @@
     <td>코딩 타임랩스</td>
   </tr>
 </table>
+  </div>
+  
 
 <br/>
 <br/>
