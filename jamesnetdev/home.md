@@ -45,7 +45,7 @@ We contribute to the tools 🔧 we rely on to build and run GitHub, while also m
 ### 🦦 Vicky
 We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
 
-<img src="https://user-images.githubusercontent.com/52397976/234251292-b5cd721a-df89-4c88-9965-17c6bb68b65b.png" style="width: auto; max-width: 120px; margin-bottom: 10px"/>
+<img src="https://user-images.githubusercontent.com/52397976/234255707-ec798738-2550-4f1b-9ec7-57324b4346aa.png" style="width: auto; max-width: 120px; margin-bottom: 10px"/>
 
 
 - [GitHub](https://github.com/cli/cli) - A command line tool for GitHub
