@@ -47,8 +47,6 @@ We contribute to the tools 🔧 we rely on to build and run GitHub, while also m
 ![image](https://user-images.githubusercontent.com/52397976/234251292-b5cd721a-df89-4c88-9965-17c6bb68b65b.png)
 
 
-
-- [동국대학교](https://github.com/cli/cli) - 동국대학교 사회학과 졸업
 - [GitHub](https://github.com/cli/cli) - A command line tool for GitHub
 - [Instagram](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
 - [Facebook](https://github.com/primer/css) - The GitHub design system
