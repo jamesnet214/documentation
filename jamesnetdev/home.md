@@ -8,20 +8,30 @@ Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **
 
 The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
 
+<img width="259" alt="image" src="https://user-images.githubusercontent.com/52397976/234241425-e6bd832f-a204-4b06-8c98-a6d35febed0a.png">
+
+
 - [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
 - Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
 - **Every minute** a developer creates a new release 🏄 for a public project on GitHub
 
 Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
 
-### 🦦 Contributing to the ecosystem
+### 🦦 James
 
 We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
 
-- [GitHub CLI](https://github.com/cli/cli) - A command line tool for GitHub
-- [Git Large File Storage](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Primer](https://github.com/primer/css) - The GitHub design system
+- [GitHub](https://github.com/cli/cli) - A command line tool for GitHub
+- [Instagram](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
+- [Facebook](https://github.com/primer/css) - The GitHub design system
 
+### 🦦 Vicky
+We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
+
+- [GitHub](https://github.com/cli/cli) - A command line tool for GitHub
+- [Instagram](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
+- [Facebook](https://github.com/primer/css) - The GitHub design system
+- 
 ### 👓 Appendix
 
 See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers) 🙌.
