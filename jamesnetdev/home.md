@@ -8,9 +8,10 @@ Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **
 
 See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers) 🙌.
 
-- [Microsoft](https://github.com/cli/cli) - A command line tool for GitHub
-- [Instagram](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Facebook](https://github.com/primer/css) - The GitHub design system
+- [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5005210?fullName=Jaewung%20Lee) - Microsoft MVP
+- [.NET Dev](https://forum.dotnetdev.kr) - .NET Dev Community staff.
+- [WPF Study](https://github.com/primer/css) - The GitHub design system
+- [WPF Meetup](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
 
 ### 🍿 Jamesnet 유튜브 채널
 
@@ -28,8 +29,6 @@ Now that we are talking about the important things ☝️, are you contributing 
 ### 🦦 James
 
 We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
-- [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5005210?fullName=Jaewung%20Lee) - Microsoft MVP
-- [.NET Dev](https://forum.dotnetdev.kr) - .NET Dev Community staff.
 - [GitHub](https://github.com/cli/cli) - A command line tool for GitHub
 - [Instagram](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
 - [Facebook](https://github.com/primer/css) - The GitHub design system
