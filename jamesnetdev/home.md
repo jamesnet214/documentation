@@ -35,7 +35,7 @@ Now that we are talking about the important things ☝️, are you contributing 
 
 We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
 
-<img src="https://user-images.githubusercontent.com/52397976/234251292-b5cd721a-df89-4c88-9965-17c6bb68b65b.png" style="width: auto; max-width: 200px"/>
+<img src="https://user-images.githubusercontent.com/52397976/234251292-b5cd721a-df89-4c88-9965-17c6bb68b65b.png" style="width: auto; max-width: 150px"/>
 
 - [GitHub](https://github.com/cli/cli) - A command line tool for GitHub
 - [Instagram](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
@@ -44,7 +44,7 @@ We contribute to the tools 🔧 we rely on to build and run GitHub, while also m
 ### 🦦 Vicky
 We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
 
-<img src="https://user-images.githubusercontent.com/52397976/234251292-b5cd721a-df89-4c88-9965-17c6bb68b65b.png" style="width: auto; max-width: 200px"/>
+<img src="https://user-images.githubusercontent.com/52397976/234251292-b5cd721a-df89-4c88-9965-17c6bb68b65b.png" style="width: auto; max-width: 150px"/>
 
 
 - [GitHub](https://github.com/cli/cli) - A command line tool for GitHub
