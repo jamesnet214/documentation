@@ -21,7 +21,7 @@ See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ a
 
 The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
 
-<img src="https://user-images.githubusercontent.com/52397976/234247636-6602e21f-c12c-40f0-8cf7-b552f4bc248a.jpg" style="width: auto; max-width: 380px"/>
+<img src="https://user-images.githubusercontent.com/52397976/234247636-6602e21f-c12c-40f0-8cf7-b552f4bc248a.jpg" style="width: auto; max-width: 360px"/>
 
 - [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
 - Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
