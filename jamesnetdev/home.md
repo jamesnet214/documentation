@@ -10,8 +10,10 @@ See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ a
 
 - [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5005210?fullName=Jaewung%20Lee) - Microsoft MVP
 - [.NET Dev](https://forum.dotnetdev.kr) - .NET Dev Community staff.
+- [WPF Books](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
 - [WPF Study](https://github.com/primer/css) - The GitHub design system
 - [WPF Meetup](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
+- [WPF Conferences](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
 
 ### 🍿 Jamesnet 유튜브 채널
 
