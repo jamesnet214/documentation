@@ -4,15 +4,15 @@
 
 Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **October 19th, 2007**. That's when we made our first commit. Since then we pushed **over 2.5 million commits**, opened **over 1 million issues**, submitted roughly **650k pull requests** across **4357 repositories** from over **50 countries** 🤯. But that's just us. We are proud  to be part of the work of millions of developers, companies and robots across the solar system 🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
 
-### 👓 WPF INSIDE OUT
+### 👓 WPF 책 INSIDE OUT
 
 See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers) 🙌.
 
-### 🍿 Jamesnet Youtube Channel 
+### 🍿 Jamesnet 유튜브 채널
 
 The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
 
-<img src="https://user-images.githubusercontent.com/52397976/234246160-523751eb-7b36-4664-a861-c530fa5318ef.png" style="max-width: 400px"/>
+![youtube](https://user-images.githubusercontent.com/52397976/234247636-6602e21f-c12c-40f0-8cf7-b552f4bc248a.jpg)
 
 
 - [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
