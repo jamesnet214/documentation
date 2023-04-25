@@ -12,7 +12,7 @@ See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ a
 
 The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
 
-![image](https://user-images.githubusercontent.com/52397976/234246160-523751eb-7b36-4664-a861-c530fa5318ef.png)
+<img src="https://user-images.githubusercontent.com/52397976/234246160-523751eb-7b36-4664-a861-c530fa5318ef.png" style="max-width: 400px"/>
 
 
 - [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
