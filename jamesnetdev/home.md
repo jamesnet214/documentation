@@ -37,7 +37,6 @@ We contribute to the tools 🔧 we rely on to build and run GitHub, while also m
 
 <img src="https://user-images.githubusercontent.com/52397976/234251292-b5cd721a-df89-4c88-9965-17c6bb68b65b.png" style="width: auto; max-width: 120px; margin-bottom: 10px"/>
 
-<br/>
 
 - [GitHub](https://github.com/cli/cli) - A command line tool for GitHub
 - [Instagram](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
@@ -48,7 +47,6 @@ We contribute to the tools 🔧 we rely on to build and run GitHub, while also m
 
 <img src="https://user-images.githubusercontent.com/52397976/234251292-b5cd721a-df89-4c88-9965-17c6bb68b65b.png" style="width: auto; max-width: 120px; margin-bottom: 10px"/>
 
-<br/>
 
 - [GitHub](https://github.com/cli/cli) - A command line tool for GitHub
 - [Instagram](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
