@@ -14,6 +14,7 @@ See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ a
 - [WPF Study](https://github.com/primer/css) - The GitHub design system
 - [WPF Meetup](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
 - [WPF Conferences](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
+- [Open Source](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
 
 ### 🍿 Jamesnet 유튜브 채널
 
