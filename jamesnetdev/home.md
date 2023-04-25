@@ -4,7 +4,7 @@
 
 Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **October 19th, 2007**. That's when we made our first commit. Since then we pushed **over 2.5 million commits**, opened **over 1 million issues**, submitted roughly **650k pull requests** across **4357 repositories** from over **50 countries** 🤯. But that's just us. We are proud  to be part of the work of millions of developers, companies and robots across the solar system 🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
 
-### 👓 Jamesnet 주요 활동
+### 📝 Jamesnet 주요 활동
 
 See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers) 🙌.
 
@@ -18,7 +18,7 @@ See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ a
 - [Nuget](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
 - [Youtube creator](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
 
-### 🍿 Jamesnet 유튜브 채널
+### 🎬 Jamesnet 유튜브 채널
 
 The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
 
@@ -31,7 +31,7 @@ The open source community is the 💗 heart of GitHub and fundamental to how we 
 
 Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
 
-### 🦦 James
+### 👨🏻‍💻 James
 
 
 We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
@@ -43,7 +43,7 @@ We contribute to the tools 🔧 we rely on to build and run GitHub, while also m
 - [Instagram](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
 - [Facebook](https://github.com/primer/css) - The GitHub design system
 
-### 🦦 Vicky
+### 👩🏻‍💻 Vicky
 We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
 
 <img src="https://user-images.githubusercontent.com/52397976/234255707-ec798738-2550-4f1b-9ec7-57324b4346aa.png" style="width: auto; max-width: 120px; margin-bottom: 10px"/>
