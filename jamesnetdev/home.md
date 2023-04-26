@@ -30,7 +30,7 @@
 
 <img src="https://user-images.githubusercontent.com/52397976/234247636-6602e21f-c12c-40f0-8cf7-b552f4bc248a.jpg" style="width: auto; max-width: 360px; margin-bottom: 10px"/>
 
-#### 콘텐츠 구성 
+#### 🎞콘텐츠 구성 
 - WPF Study 
 - 작업 Shorts 
 - 언박싱 Shorts  
