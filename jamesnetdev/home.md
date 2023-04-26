@@ -8,15 +8,15 @@ Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **
 
 See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers) 🙌.
 
-- [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5005210?fullName=Jaewung%20Lee) - Microsoft MVP
-- [.NET Dev](https://forum.dotnetdev.kr) - .NET Dev Community staff.
-- [Books](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [WPF Study](https://github.com/primer/css) - The GitHub design system
-- [Meetup](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Conferences](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Open Source](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Nuget](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Youtube creator](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
+- [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5005210?fullName=Jaewung%20Lee) - 2023년 Microsoft MVP 당청
+- [.NET Dev](https://forum.dotnetdev.kr/u/jamesnet214/summary) - .NET Dev Community 
+- [Books](https://jamesnet.dev/books) - 정성을 다해 쓴 WPF한글 책 출시 
+- [WPF Study](https://github.com/jamesnet214/wpf) - 정기적으로 진행하고 있는 온/오프라인 스터디
+- [Meetup](https://github.com/git-lfs/git-lfs) - 링크 
+- [Conferences](https://github.com/git-lfs/git-lfs) -  
+- [Open Source](https://github.com/jamesnet214) -링크 
+- [Nuget](https://github.com/git-lfs/git-lfs) - 링크
+- [Youtube creator](https://www.youtube.com/channel/UCjtjzutyfunsXV0T6evc8pA) - 다양한 개발 관련 콘텐츠 
 
 ### 🎬 Jamesnet 유튜브 채널
 
