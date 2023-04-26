@@ -1,27 +1,22 @@
 # Lectures
 
-### 곧 예정인 강연
-#### WPF 밋업 
-- 블루포트 x 인프라지스틱스 
-- (2023.04.27)
-- [참여하기](https://cafe.naver.com/infragisticskorea)
-- WPF 알아야할 팁들 2부
-- WPF 스터디 시즌 3 (2023.04.29)[참여하기](https://forum.dotnetdev.kr/t/wpf-3/6795)
-  - WPF Inside Out 책과 함께 하는 스터디
-- 닷넷 컨퍼런스 L!VE (2023.05.16)[참여하기](https://www.dotnetconf.kr/)
-  - Avalonia UI XAML 살펴보기 
+#### 곧 예정인 발표/강연
+
+- 2023.04.27 -  [WPF 밋업 (2회)](https://cafe.naver.com/infragisticskorea)
+- 2023.04.29 -  [WPF 스터디 (시즌3)](https://forum.dotnetdev.kr/t/wpf-3/6795)
+- 2023.05.16 -  [닷넷데브 L!VE 스프링](https://www.dotnetconf.kr/)
 
 #### 지난 강연 목록
-- WPF 스터디 시즌 2
-  - 1회: 2023.02.11
-  - 2회: 2023.02.18
-  - 3회: 2023.02.25
-  - 4회: 2023.03.04
-- wpf 스터디 시즌 1
-  - 1회: 2023.03.18
-  - 2회: 2023.03.25
-  - 3회: 2023.04.01
-  - 4회: 2023.04.08
+- 2023.02.11 -  [WPF 스터디 (1회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
+- 2023.02.18 -  [WPF 스터디 (2회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
+- 2023.02.25 -  [WPF 스터디 (3회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
+- 2023.03.04 -  [WPF 스터디 (4회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
+- 2023.02.11 -  [WPF 스터디 (5회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
+- 2023.02.18 -  [WPF 스터디 (6회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
+- 2023.02.25 -  [WPF 스터디 (7회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
+- 2023.03.04 -  [WPF 스터디 (8회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
+ 
+1
 - .NET Conference Seoul 2023
   - Microsoft DevKit 2023 미리보기
 - .NET Conference Mini 2022.09
