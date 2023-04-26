@@ -7,7 +7,7 @@
 - 2023.05.16 -  [닷넷데브 L!VE 스프링](https://www.dotnetconf.kr/)
 
 #### 지난 강연 목록
-- 2023.03.23 -  [WPF 밋업 인프라지스틱스x블루포트 (1회)](https://cafe.naver.com/infragisticskorea) - 종료
+- 2023.03.23 -  WPF 밋업 인프라지스틱스x블루포트 (1회) - 종료
 - 2023.03.04 -  [WPF 스터디 (8회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
 - 2023.02.25 -  [WPF 스터디 (7회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
 - 2023.02.18 -  [WPF 스터디 (6회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
