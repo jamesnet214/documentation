@@ -45,7 +45,7 @@
 ## 📍운영자들
 
 ### 👨🏻‍💻 James
-👋🏻 안녕하세요! 닷텟 WPF 개발자 James입니다. 
+👋🏻 안녕하세요! 닷넷 개발자 James입니다. 
 
 <img src="https://user-images.githubusercontent.com/52397976/234251292-b5cd721a-df89-4c88-9965-17c6bb68b65b.png" style="width: auto; max-width: 120px; margin-bottom: 10px"/>
 
