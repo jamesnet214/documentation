@@ -20,7 +20,8 @@ See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ a
 
 ### 🎬 Jamesnet 유튜브 채널
 
-The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
+더 많은 분들이 WPF 개발 기술을 좋아해주셨으면 좋겠다고 저희의 새로운 유튜브 채널을 개설했습니다. 
+정기적으로 다양한 영상 콘텐츠를 업로드할 예정이니 많은 관심 부탁드립니다^^
 
 <img src="https://user-images.githubusercontent.com/52397976/234247636-6602e21f-c12c-40f0-8cf7-b552f4bc248a.jpg" style="width: auto; max-width: 360px; margin-bottom: 10px"/>
 
