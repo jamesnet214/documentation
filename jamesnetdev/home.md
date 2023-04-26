@@ -10,7 +10,7 @@
 
 ### 📝 Jamesnet 주요 활동
 
-See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers) 🙌.
+지금까지 우리의 주요 활동 내용 한 눈에 보기  🙌.
 
 - [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5005210?fullName=Jaewung%20Lee) - 2023년 Microsoft MVP 당청
 - [.NET Dev](https://forum.dotnetdev.kr/u/jamesnet214/summary) - .NET Dev Community 
