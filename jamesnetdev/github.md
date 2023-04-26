@@ -2,8 +2,8 @@
 GitHub 오픈소스 활동중인 레포지터리를 소개합니다.
 
 #### WPF Application
-- [League of Legends](https://github.com/jamesnet214/leagueoflegends) - 리그오브레전드 런처를 WPF으로 구현한 앱입니다.
-- [ColorPicker](https://github.com/jamesnet214/colorpicker) - 간단한 ColorPicker 애플리케이션 앱입니다.
+- [League of Legends](https://github.com/jamesnet214/leagueoflegends) - 리그오브레전드 런처를 구현한 앱입니다.
+- [ColorPicker](https://github.com/jamesnet214/colorpicker) - 윈도우에서 색상 추출을 하기 위한 유틸 앱입니다.
 
 #### MAUI Application
 - [League of Legends](https://github.com/jamesnet214/maui-premierleague) - 간단한 MAUI 샘플 애플리케이션입니다.
