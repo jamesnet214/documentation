@@ -2,20 +2,20 @@
 
 #### 곧 예정인 발표/강연
 
-- 2023.04.27 -  [WPF 밋업 (2회)](https://cafe.naver.com/infragisticskorea)
-- 2023.04.29 -  [WPF 스터디 (시즌3)](https://forum.dotnetdev.kr/t/wpf-3/6795)
-- 2023.05.16 -  [닷넷데브 L!VE 스프링](https://www.dotnetconf.kr/)
+- [제 2회 WPF Meetup]() - 인프라지스틱스 (2023.04.27)
+- [WPF 스터디 (시즌3)](https://forum.dotnetdev.kr/t/wpf-3/6795) - Jamesnet (2023.04.29)
+- [닷넷 L!VE 컨퍼런스](https://www.dotnetconf.kr/) - 닷넷데브 (2023.05.16)
 
 #### 지난 강연 목록
-- 2023.03.23 -  제 1회 WPF 밋업 - 종료
-- 2023.03.04 -  [WPF 스터디 (8회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
-- 2023.02.25 -  [WPF 스터디 (7회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
-- 2023.02.18 -  [WPF 스터디 (6회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
-- 2023.02.11 -  [WPF 스터디 (5회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
-- 2023.03.04 -  [WPF 스터디 (4회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
-- 2023.02.25 -  [WPF 스터디 (3회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
-- 2023.02.18 -  [WPF 스터디 (2회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
-- 2023.02.11 -  [WPF 스터디 (1회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
+- [제 1회 WPF Meetup]() - 인프라지스틱스 (2023.03.23)
+- [제 8회 WPF 스터디 (시즌2)](https://forum.dotnetdev.kr/t/wpf-3/6795) - Jamesnet (2023.03.04)
+- [제 8회 WPF 스터디 (시즌2)]() - Jamesnet (2023.03.25)
+- [제 8회 WPF 스터디 (시즌2)]() - Jamesnet (2023.03.18)
+- [제 8회 WPF 스터디 (시즌2)]() - Jamesnet (2023.03.11)
+- [제 8회 WPF 스터디 (시즌2)]() - Jamesnet (2023.03.04)
+- [제 8회 WPF 스터디 (시즌2)]() - Jamesnet (2023.02.25)
+- [제 8회 WPF 스터디 (시즌2)]() - Jamesnet (2023.02.18)
+- [제 8회 WPF 스터디 (시즌2)]() - Jamesnet (2023.02.11)
  
 1
 - .NET Conference Seoul 2023
