@@ -47,7 +47,7 @@
 
 <img src="https://user-images.githubusercontent.com/52397976/234251292-b5cd721a-df89-4c88-9965-17c6bb68b65b.png" style="width: auto; max-width: 120px; margin-bottom: 10px"/>
 
-- [GitHub]([https://github.com/cli/cli](https://github.com/jamesnet214)) - 프로젝트/Open Source
+- [GitHub](https://github.com/jamesnet214) - 프로젝트/Open Source
 - [Instagram](https://www.instagram.com/jamesnet214/?igshid=YmMyMTA2M2Y%3D) - 개발자 일상
 - [Facebook](https://www.facebook.com/jamesnet214) - 소통/정보 공유
 
