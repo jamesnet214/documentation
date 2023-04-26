@@ -20,7 +20,7 @@
 - [Open Source](https://jamesnet.dev/github) - Open Source
 - [Nuget](https://github.com/jamesnet214/jamesnetwpf) - Jamesnet.WPF
 - [Youtube creator](https://www.youtube.com/channel/UCjtjzutyfunsXV0T6evc8pA) - 개발 관련 콘텐츠 
-- 
+
 
 ## 🎬 Jamesnet 유튜브 채널
 
@@ -39,7 +39,6 @@
 - 개발자 커플의 일상
 
 유튜브 채널에서 다음과 같은 컨텐츠를 제공합니다. 많은 관심 부탁드립니다.
-
 
 
 ## 📍운영자들
