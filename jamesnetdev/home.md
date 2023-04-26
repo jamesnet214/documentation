@@ -9,7 +9,7 @@
 
 ## 📝 Jamesnet 주요 활동
 
-지금까지 우리의 주요 활동 내용 한 눈에 보기  🙌.
+지금까지 우리의 주요 활동 내용 한 눈에 보기  🙌
 
 - [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5005210?fullName=Jaewung%20Lee) -Developer Technologies
 - [.NET Dev](https://forum.dotnetdev.kr/u/jamesnet214/summary) - .NET Dev Community 
