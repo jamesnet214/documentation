@@ -13,3 +13,4 @@ GitHub 오픈소스 활동중인 레포지터리를 소개합니다.
 
 #### Documentation
 - [WPF Study](https://github.com/jamesnet214/wpf)
+- [Awesome WPF](https://github.com/jamesnet214/awesome-wpf)
