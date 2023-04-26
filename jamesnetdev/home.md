@@ -47,7 +47,7 @@
 
 - [GitHub]([https://github.com/cli/cli](https://github.com/jamesnet214)) - 프로젝트/Open Source
 - [Instagram](https://www.instagram.com/jamesnet214/?igshid=YmMyMTA2M2Y%3D) - 개발자 일상
-- [Facebook](https://www.facebook.com/jamesnet214) - 개발 소통/정보 공유
+- [Facebook](https://www.facebook.com/jamesnet214) - 소통/정보 공유
 
 ### 👩🏻‍💻 Vicky
 👋🏻 你好！안녕하세요!한국에서 활동하고 있는 중국인 개발자 Vicky입니다.
@@ -57,6 +57,6 @@
 
 - [GitHub](https://github.com/quyang115)  - 프로젝트/Open Source
 - [Instagram](https://www.instagram.com/vickyqu115/?igshid=YmMyMTA2M2Y%3D) - 개발자 일상
-- [Facebook](https://www.facebook.com/profile.php?id=100091905613316)- 개발 소통/정보 공유
+- [Facebook](https://www.facebook.com/profile.php?id=100091905613316)- 소통/정보 공유
 
 <br/>
