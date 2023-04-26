@@ -16,6 +16,7 @@
 - 2023.02.25 -  [WPF 스터디 (7회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
 - 2023.03.04 -  [WPF 스터디 (8회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
  
+ 
 1
 - .NET Conference Seoul 2023
   - Microsoft DevKit 2023 미리보기
