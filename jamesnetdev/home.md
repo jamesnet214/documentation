@@ -16,7 +16,7 @@
 - [Books](https://jamesnet.dev/books) - 정성을 다해 쓴 WPF한글 책 출시 
 - [WPF Study](https://github.com/jamesnet214/wpf) - 정기적으로 진행하고 있는 온/오프라인 스터디
 - [Meetup](https://github.com/git-lfs/git-lfs) - 링크 
-- [Conferences](https://github.com/git-lfs/git-lfs) -  
+- [Conferences](https://github.com/git-lfs/git-lfs) - 링크
 - [Open Source](https://github.com/jamesnet214) -링크 
 - [Nuget](https://github.com/git-lfs/git-lfs) - 링크
 - [Youtube creator](https://www.youtube.com/channel/UCjtjzutyfunsXV0T6evc8pA) - 다양한 개발 관련 콘텐츠 
@@ -46,7 +46,7 @@
 <img src="https://user-images.githubusercontent.com/52397976/234251292-b5cd721a-df89-4c88-9965-17c6bb68b65b.png" style="width: auto; max-width: 120px; margin-bottom: 10px"/>
 
 - [GitHub]([https://github.com/cli/cli](https://github.com/jamesnet214)) - 프로젝트/Open Source
-- [Instagram](https://www.instagram.com/jamesnet214/?igshid=YmMyMTA2M2Y%3D)  - 개발자 일상
+- [Instagram](https://www.instagram.com/jamesnet214/?igshid=YmMyMTA2M2Y%3D) - 개발자 일상
 - [Facebook](https://www.facebook.com/jamesnet214) - 개발 소통/정보 공유
 
 ### 👩🏻‍💻 Vicky
@@ -56,7 +56,7 @@
 
 
 - [GitHub](https://github.com/quyang115)  - 프로젝트/Open Source
-- [Instagram](https://www.instagram.com/vickyqu115/?igshid=YmMyMTA2M2Y%3D) - - 개발자 일상
+- [Instagram](https://www.instagram.com/vickyqu115/?igshid=YmMyMTA2M2Y%3D) - 개발자 일상
 - [Facebook](https://www.facebook.com/profile.php?id=100091905613316)- 개발 소통/정보 공유
 
 
