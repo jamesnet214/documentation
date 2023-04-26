@@ -52,7 +52,7 @@
 - [GitHub](https://github.com/jamesnet214) - 프로젝트/Open Source
 - [Instagram](https://www.instagram.com/jamesnet214/?igshid=YmMyMTA2M2Y%3D) - 개발자 일상
 - [Facebook](https://www.facebook.com/jamesnet214) - 소통/정보 공유
-- [Linkedin]([https://www.linkedin.com/jamesnet214](https://www.linkedin.com/in/jamesnet214)) - 소통/정보 공유
+- [Linkedin](https://www.linkedin.com/in/jamesnet214) - 직업/소통
 
 ### 👩🏻‍💻 Vicky
 👋🏻 你好！안녕하세요!한국에서 활동하고 있는 중국인 개발자 Vicky입니다.
