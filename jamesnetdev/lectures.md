@@ -7,15 +7,14 @@
 - 2023.05.16 -  [닷넷데브 L!VE 스프링](https://www.dotnetconf.kr/)
 
 #### 지난 강연 목록
-- 2023.02.11 -  [WPF 스터디 (1회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
-- 2023.02.18 -  [WPF 스터디 (2회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
-- 2023.02.25 -  [WPF 스터디 (3회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
-- 2023.03.04 -  [WPF 스터디 (4회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
-- 2023.02.11 -  [WPF 스터디 (5회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
-- 2023.02.18 -  [WPF 스터디 (6회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
-- 2023.02.25 -  [WPF 스터디 (7회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
 - 2023.03.04 -  [WPF 스터디 (8회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
- 
+- 2023.02.25 -  [WPF 스터디 (7회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
+- 2023.02.18 -  [WPF 스터디 (6회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
+- 2023.02.11 -  [WPF 스터디 (5회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
+- 2023.03.04 -  [WPF 스터디 (4회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
+- 2023.02.25 -  [WPF 스터디 (3회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
+- 2023.02.18 -  [WPF 스터디 (2회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
+- 2023.02.11 -  [WPF 스터디 (1회)](https://forum.dotnetdev.kr/t/wpf-3/6795) - 종료
  
 1
 - .NET Conference Seoul 2023
