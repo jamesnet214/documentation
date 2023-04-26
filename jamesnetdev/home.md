@@ -20,6 +20,7 @@
 - [Open Source](https://github.com/jamesnet214) -링크 
 - [Nuget](https://github.com/git-lfs/git-lfs) - 링크
 - [Youtube creator](https://www.youtube.com/channel/UCjtjzutyfunsXV0T6evc8pA) - 다양한 개발 관련 콘텐츠 
+- 
 
 ## 🎬 Jamesnet 유튜브 채널
 
@@ -35,6 +36,7 @@
 - 언박싱 Shorts  
 - 개발자 커플 일상
 - 등 
+
 
 
 ## 운영자들
