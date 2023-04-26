@@ -37,16 +37,13 @@ See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ a
 ## 운영자
 
 ### 👨🏻‍💻 James
-
-
-We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
+안녕하세요! 닷텟 WPF 개발자 James입니다. 
 
 <img src="https://user-images.githubusercontent.com/52397976/234251292-b5cd721a-df89-4c88-9965-17c6bb68b65b.png" style="width: auto; max-width: 120px; margin-bottom: 10px"/>
 
-
-- [GitHub](https://github.com/cli/cli) - A command line tool for GitHub
-- [Instagram](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Facebook](https://github.com/primer/css) - The GitHub design system
+- [GitHub]([https://github.com/cli/cli](https://github.com/jamesnet214)) - 프로젝트/Open Source
+- [Instagram](https://www.instagram.com/jamesnet214/?igshid=YmMyMTA2M2Y%3D) - 개발자 일상
+- [Facebook](https://www.facebook.com/jamesnet214) - 개발 소통/정보 공유
 
 ### 👩🏻‍💻 Vicky
 你好！안녕하세요!한국에서 활동하고 있는 중국인 개발자 Vicky입니다.
