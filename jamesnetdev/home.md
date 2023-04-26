@@ -11,7 +11,7 @@
 
 지금까지 우리의 주요 활동 내용 한 눈에 보기  🙌.
 
-- [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5005210?fullName=Jaewung%20Lee) - 2023년 Microsoft MVP 당청
+- [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5005210?fullName=Jaewung%20Lee) -Developer Technologies
 - [.NET Dev](https://forum.dotnetdev.kr/u/jamesnet214/summary) - .NET Dev Community 
 - [Books](https://jamesnet.dev/books) - 정성을 다해 쓴 WPF한글 책 출시 
 - [WPF Study](https://github.com/jamesnet214/wpf) - 정기적으로 진행하고 있는 온/오프라인 스터디
