@@ -45,7 +45,7 @@
 <img src="https://user-images.githubusercontent.com/52397976/234251292-b5cd721a-df89-4c88-9965-17c6bb68b65b.png" style="width: auto; max-width: 120px; margin-bottom: 10px"/>
 
 - [GitHub]([https://github.com/cli/cli](https://github.com/jamesnet214)) - 프로젝트/Open Source
-- [Instagram](https://www.instagram.com/jamesnet214/?igshid=YmMyMTA2M2Y%3D) - 개발자 일상
+- [Instagram](https://www.instagram.com/jamesnet214/?igshid=YmMyMTA2M2Y%3D)  - 프로젝트/Open Source
 - [Facebook](https://www.facebook.com/jamesnet214) - 개발 소통/정보 공유
 
 ### 👩🏻‍💻 Vicky
@@ -54,74 +54,8 @@
 <img src="https://user-images.githubusercontent.com/52397976/234255707-ec798738-2550-4f1b-9ec7-57324b4346aa.png" style="width: auto; max-width: 120px; margin-bottom: 10px"/>
 
 
-- [GitHub](https://github.com/cli/cli) - A command line tool for GitHub
-- [Instagram](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Facebook](https://github.com/primer/css) - The GitHub design system
+- [GitHub](https://github.com/quyang115)  - 프로젝트/Open Source
+- [Instagram](https://www.instagram.com/vickyqu115/?igshid=YmMyMTA2M2Y%3D) - 프로젝트/Open Source
+- [Facebook](https://www.facebook.com/profile.php?id=100091905613316)- 개발 소통/정보 공유
 
-
-<details> 
-	<summary>"Tell me more, I can't get enough!"</summary>
-	<br>
-	<ul>
-	<li>GitHub is built using mighty 🔨 open source technologies like <a href="https://github.com/rails">Ruby on Rails</a>, <a href="https://github.com/golang">Go</a>, <a href="https://github.com/primer">Primer</a>, <a href="https://github.com/reactjs">React</a> and <a href="https://github.com/apache/kafka">Kafka</a> among others.</li>
-		<li>The three open source projects GitHub members have most contributed 👩‍💻 to are:
-			<ul>
-				<li><a href="https://github.com/microsoft/vscode">Visual Studio Code</a></li>
-				<li><a href="https://github.com/rails/rails">Ruby on Rails</a></li>
-				<li><a href="https://github.com/Homebrew">Homebrew</a></li>
-			</ul>
-		</li>
-		<li>By the way, our <a href="https://github.com/github/docs">documentation</a> 🤓 is also open sourced</li>
-	</ul>
-</details>
-
----
-
-<sub>🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).</sub>
-
-<!--
-Made with 🖤
-🙇‍♂️🎤⬇️
--->
-
-
-
-## Software Enginner x2 , Prowerful X2
-#### Using our skills to develop more efficient and convenient programs and sharing my passion for programming experience.
-
-
-#### 안녕하세요! 우리는 지금 James/Vicky 이름으로 활동하고 있는.NET개발자 이재웅/구양입니다. wi
-
-
-
-
-
-### 구성문 
-
-페이스북 이미지  : 
- <img width="200" alt="image" src="https://user-images.githubusercontent.com/101777355/234127205-9b1a0680-c806-4bfc-b287-36ff20eacf44.png">
- 
- 인스타 이미지:
- <img width="200" alt="image" src="https://user-images.githubusercontent.com/101777355/234128633-8f0c2b1b-566b-4fa7-ad78-7ae4a83dcb27.png">
- 
-## About James
-
- - 프로필 이미지 :
- - <img width="200" alt="image" src="https://user-images.githubusercontent.com/101777355/234126965-eecfbc20-c0df-4061-b691-6d40fe13b1ba.png">
-
-- 페이스북 ID: 이재웅 
-- link : https://www.facebook.com/jamesnet214
-
-- insta id : jamesnet214
-- link: https://www.instagram.com/jamesnet214/?igshid=YmMyMTA2M2Y%3D
-
-## About Vicky 
-- 프로필 이미지 :
- - <img width="200" alt="image" src="https://user-images.githubusercontent.com/101777355/234127899-02d445bc-73d1-458c-8d58-001efafe9a93.jpg">
-
-- 페이스북 ID: Yang Qu
-- link:https://www.facebook.com/profile.php?id=100091905613316
-
-- insta id : vickyqu115
-- link: https://www.instagram.com/vickyqu115/?igshid=YmMyMTA2M2Y%3D
 
