@@ -9,7 +9,7 @@ GitHub 오픈소스 활동중인 레포지터리를 소개합니다.
 - [CommitLogView](https://github.com/jamesnet214/commit-log-viewer) - Git 관리 유틸 애플리케이션입니다.
 
 #### MAUI Learn Application
-- [MAUI](https://github.com/jamesnet214/maui-premierleague) - 간단한 MAUI 샘플 애플리케이션입니다.
+- [MAUI Primier League](https://github.com/jamesnet214/maui-premierleague) - 간단한 MAUI 샘플 애플리케이션입니다.
 
 #### Nuget Package
 - [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf) - Prism, CommunityToolkit등을 포함하는 WPF 프레임워크입니다.
