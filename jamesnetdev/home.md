@@ -24,7 +24,7 @@
 
 ## 🎬 Jamesnet 유튜브 채널
 
-WPF 개발 기술에 대한 관심을 넓히고자, 새로운 유튜브 채널을 소개하게 되었습니다. 앞으로 다양한 영상 콘텐츠를 정기적으로 업로드할 계획입니다. 여러분의 관심과 지지가 큰 힘이 됩니다. 부디 많은 관심 부탁드립니다!
+WPF 개발 기술에 대한 관심을 넓히고자, 새로운 유튜브 채널을 소개하게 되었습니다. 앞으로 다양한 영상 콘텐츠를 정기적으로 업로드할 계획입니다. 부디 많은 관심 부탁드립니다!
 
 <a href="https://youtube.com/@jamesnet214">
 <img src="https://user-images.githubusercontent.com/52397976/234247636-6602e21f-c12c-40f0-8cf7-b552f4bc248a.jpg" style="width: auto; max-width: 360px; margin-bottom: 10px"/>
