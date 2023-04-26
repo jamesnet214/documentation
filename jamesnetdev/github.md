@@ -6,8 +6,7 @@ GitHub 오픈소스 활동중인 레포지터리를 소개합니다.
 - [ColorPicker](https://github.com/jamesnet214/colorpicker)
 
 #### MAUI Application
-- [League of Legends](https://github.com/jamesnet214/leagueoflegends)
-- [ColorPicker](https://github.com/jamesnet214/colorpicker)
+- [League of Legends](https://github.com/jamesnet214/maui-premierleague)
 - 
 #### Nuget Package
-- [Jamesnet.Wpf](https://github.com/jamesnet214maui-premierleague)
+- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnet)
