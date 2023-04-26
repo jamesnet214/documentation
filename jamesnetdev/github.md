@@ -12,7 +12,7 @@ GitHub 오픈소스 활동중인 레포지터리를 소개합니다.
 - [League of Legends](https://github.com/jamesnet214/maui-premierleague) - 간단한 MAUI 샘플 애플리케이션입니다.
 
 #### Nuget Package
-- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf) - Prism, CommunityToolkit, AutoGrid 등을 포함하는 WPF 프레임워크입니다.
+- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf) - Prism, CommunityToolkit등을 포함하는 WPF 프레임워크입니다.
 
 #### Markdown Documentation
 - [WPF Study](https://github.com/jamesnet214/wpf) - WPF 스터디를 소개하는 문서입니다.
