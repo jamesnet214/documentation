@@ -55,7 +55,7 @@
 - [Linkedin](https://www.linkedin.com/in/jamesnet214) - 직업/소통
 
 ### 👩🏻‍💻 Vicky
-👋🏻 你好！안녕하세요!한국에서 활동하고 있는 중국인 개발자 Vicky입니다.
+👋🏻 你好！안녕하세요! 한국에서 활동하고 있는 중국인 개발자 Vicky입니다.
 
 <img src="https://user-images.githubusercontent.com/52397976/234255707-ec798738-2550-4f1b-9ec7-57324b4346aa.png" style="width: auto; max-width: 120px; margin-bottom: 10px"/>
 
