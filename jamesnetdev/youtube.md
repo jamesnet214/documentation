@@ -39,6 +39,8 @@
 제임스 타임랩스3 이미지
 ![KakaoTalk_20230425_030702947_01](https://user-images.githubusercontent.com/101777355/234114451-433b05cf-3b42-4252-8af1-61eb8842ff92.jpg)
 
+![image](https://user-images.githubusercontent.com/52397976/234464600-78bb623a-7efa-4861-826f-6f70bd0ea422.png)
+
 
 - 라이브 방송 링크 
   - EP1:https://www.youtube.com/watch?v=XRKo7svG9-k&t=727s
