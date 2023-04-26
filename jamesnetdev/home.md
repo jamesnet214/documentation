@@ -21,16 +21,20 @@ See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ a
 ### 🎬 Jamesnet 유튜브 채널
 
 더 많은 분들이 WPF 개발 기술을 좋아해주셨으면 좋겠다고 저희의 새로운 유튜브 채널을 개설했습니다. 
+
 정기적으로 다양한 영상 콘텐츠를 업로드할 예정이니 많은 관심 부탁드립니다^^
 
 <img src="https://user-images.githubusercontent.com/52397976/234247636-6602e21f-c12c-40f0-8cf7-b552f4bc248a.jpg" style="width: auto; max-width: 360px; margin-bottom: 10px"/>
 
+##### 콘텐츠 구성 
+- WPF Study 
+- 작업 Shorts 
+- 언박싱 Shorts  
+- 개발자 커플 일상
+- 등 
 
-- [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
-- Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
-- **Every minute** a developer creates a new release 🏄 for a public project on GitHub
 
-Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
+## 운영자
 
 ### 👨🏻‍💻 James
 
@@ -45,7 +49,7 @@ We contribute to the tools 🔧 we rely on to build and run GitHub, while also m
 - [Facebook](https://github.com/primer/css) - The GitHub design system
 
 ### 👩🏻‍💻 Vicky
-We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
+你好！안녕하세요!한국에서 활동하고 있는 중국인 개발자 Vicky입니다.
 
 <img src="https://user-images.githubusercontent.com/52397976/234255707-ec798738-2550-4f1b-9ec7-57324b4346aa.png" style="width: auto; max-width: 120px; margin-bottom: 10px"/>
 
