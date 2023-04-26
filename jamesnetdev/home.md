@@ -7,7 +7,7 @@
 우선, 각 채널에서 저희를 관심과 지지해주신 모든 분들께 감사드립니다. 여러분들의 지지와 성원이 저희의 발전 동력이 되었습니다. 또한 저희가 사랑하는 .NET 기술을 더 많은 분들에게 전파하고자 합니다. 그래서 우리 각 채널에 있는 컨텐츠를 모아 여러분들이 이곳에서 더 쉽게 필요한 기술 정보를 찾아볼 수 있도록 했습니다.
 
 
-### 📝 Jamesnet 주요 활동
+## 📝 Jamesnet 주요 활동
 
 지금까지 우리의 주요 활동 내용 한 눈에 보기  🙌.
 
@@ -21,7 +21,7 @@
 - [Nuget](https://github.com/git-lfs/git-lfs) - 링크
 - [Youtube creator](https://www.youtube.com/channel/UCjtjzutyfunsXV0T6evc8pA) - 다양한 개발 관련 콘텐츠 
 
-### 🎬 Jamesnet 유튜브 채널
+## 🎬 Jamesnet 유튜브 채널
 
 더 많은 분들이 WPF 개발 기술을 좋아해주셨으면 좋겠다고 저희의 새로운 유튜브 채널을 개설했습니다. 
 
@@ -29,7 +29,7 @@
 
 <img src="https://user-images.githubusercontent.com/52397976/234247636-6602e21f-c12c-40f0-8cf7-b552f4bc248a.jpg" style="width: auto; max-width: 360px; margin-bottom: 10px"/>
 
-##### 콘텐츠 구성 
+#### 콘텐츠 구성 
 - WPF Study 
 - 작업 Shorts 
 - 언박싱 Shorts  
