@@ -2,7 +2,8 @@
 
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
-여러분 안녕하세요. 우리의 홈페이지 'Jamesnet'이 드디어 오픈되었습니다!
+여러분 안녕하세요! 우리의 홈페이지 'Jamesnet'이 드디어 오픈되었습니다!
+
 우선, 각 채널에서 저희를 관심과 지지해주신 모든 분들께 감사드립니다. 여러분들의 지지와 성원이 저희의 발전 동력이 되었습니다. 또한 저희가 사랑하는 .NET 기술을 더 많은 분들에게 전파하고자 합니다. 그래서 우리 각 채널에 있는 컨텐츠를 모아 여러분들이 이곳에서 더 쉽게 필요한 기술 정보를 찾아볼 수 있도록 했습니다.
 
 (https://github.com/readme/featured/nasa-ingenuity-helicopter)!
