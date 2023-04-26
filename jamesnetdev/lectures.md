@@ -24,5 +24,5 @@
   - MAUI IOS 개발하기[영상 보러가기](https://www.youtube.com/watch?v=Z6Z3qgHYaOg&t=7s)
 - .NET Conference Mini 2022.05
   - WPF Binding 살펴보기[영상 보러가기](https://www.youtube.com/watch?v=W95lo-337Q8)
-- .NET Conference Mini 2021.05
+- .NET Conference Mini 2021.08
   - Blazor Autentication OAuth 2.0 구현하기[보러가기](https://www.dotnetconf.kr/f17f4fea-d156-4717-a295-4fdf5578457e)
