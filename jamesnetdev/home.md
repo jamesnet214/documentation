@@ -19,7 +19,7 @@
 - [Conferences](https://jamesnet.dev/lectures) - WPF 주제 발표 
 - [Open Source](https://jamesnet.dev/github) - Open Source
 - [Nuget](https://github.com/jamesnet214/jamesnetwpf) - Jamesnet.WPF
-- [Youtube creator](https://www.youtube.com/channel/UCjtjzutyfunsXV0T6evc8pA) - 다양한 개발 관련 콘텐츠 
+- [Youtube creator](https://www.youtube.com/channel/UCjtjzutyfunsXV0T6evc8pA) - 개발 관련 콘텐츠 
 - 
 
 ## 🎬 Jamesnet 유튜브 채널
