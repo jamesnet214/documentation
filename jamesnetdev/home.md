@@ -15,10 +15,10 @@
 - [.NET Dev](https://forum.dotnetdev.kr/u/jamesnet214/summary) - .NET Dev Community 
 - [Books](https://jamesnet.dev/books) - 정성을 다해 쓴 WPF한글 책 출시 
 - [WPF Study](https://github.com/jamesnet214/wpf) - 정기적으로 진행하고 있는 온/오프라인 스터디
-- [Meetup](https://jamesnet.dev/lectures) - 
-- [Conferences](https://jamesnet.dev/lectures) - 
-- [Open Source](https://jamesnet.dev/github) -
-- [Nuget](https://github.com/jamesnet214/jamesnetwpf) -
+- [Meetup](https://jamesnet.dev/lectures) - WPF 주제 발표
+- [Conferences](https://jamesnet.dev/lectures) - WPF주제 발표 
+- [Open Source](https://jamesnet.dev/github) - Open Source
+- [Nuget](https://github.com/jamesnet214/jamesnetwpf) - Jamesnet.WPF
 - [Youtube creator](https://www.youtube.com/channel/UCjtjzutyfunsXV0T6evc8pA) - 다양한 개발 관련 콘텐츠 
 - 
 
