@@ -1,4 +1,4 @@
-## GitHub 레포지토리 소개
+## GitHub 레포지토리
 GitHub 오픈소스 활동중인 레포지터리를 소개합니다.
 
 #### WPF Application
