@@ -16,9 +16,9 @@
 - [Books](https://jamesnet.dev/books) - 정성을 다해 쓴 WPF한글 책 출시 
 - [WPF Study](https://github.com/jamesnet214/wpf) - 정기적으로 진행하고 있는 온/오프라인 스터디
 - [Meetup](https://github.com/git-lfs/git-lfs) - 링크 
-- [Conferences](https://github.com/git-lfs/git-lfs) - 링크
-- [Open Source](https://github.com/jamesnet214) -링크 
-- [Nuget](https://github.com/git-lfs/git-lfs) - 링크
+- [Conferences](https://github.com/git-lfs/git-lfs) - 
+- [Open Source](https://jamesnet.dev/github) -
+- [Nuget](https://github.com/jamesnet214/jamesnetwpf) -
 - [Youtube creator](https://www.youtube.com/channel/UCjtjzutyfunsXV0T6evc8pA) - 다양한 개발 관련 콘텐츠 
 - 
 
