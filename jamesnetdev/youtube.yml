@@ -1,14 +1,14 @@
-- name: Video 1
+- name: 맥북 프로 언박싱
   imageUri: https://example.com/images/video1.jpg
-  uri: https://www.youtube.com/watch?v=video1
+  uri: https://www.youtube.com/shorts/VlEaalhEyRo
   desc: This is the description for Video 1
 
 - name: Video 2
   imageUri: https://example.com/images/video2.jpg
-  uri: https://www.youtube.com/watch?v=video2
+  uri: https://www.youtube.com/shorts/Uv-O4I8KpIc
   desc: This is the description for Video 2
 
 - name: Video 3
   imageUri: https://example.com/images/video3.jpg
-  uri: https://www.youtube.com/watch?v=video3
+  uri: https://www.youtube.com/shorts/qLDp0gELj2E
   desc: This is the description for Video 3
