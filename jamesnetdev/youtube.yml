@@ -4,7 +4,7 @@
   desc: This is the description for Video 1
 
 - name: Video 2
-  imageUri: https://example.com/images/video2.jpg
+  imageUri: https://user-images.githubusercontent.com/101777355/235001818-38b57111-bc31-4416-8441-d930607a69cb.png
   uri: https://www.youtube.com/shorts/Uv-O4I8KpIc
   desc: This is the description for Video 2
 
