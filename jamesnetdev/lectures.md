@@ -4,7 +4,7 @@
 
 - [제 2회 WPF Meetup](https://cafe.naver.com/infragisticskorea/428) - Infragistics (2023.04.27)
 - [제 9회 WPF 스터디](https://forum.dotnetdev.kr/t/wpf-3/6795) - Jamesnet 시즌3 (2023.04.29)
-- [닷넷 L!VE 컨퍼런스](https://www.dotnetconf.kr/) - 닷넷데브 (2023.05.16)
+- [닷넷 L!VE 컨퍼런스](https://www.dotnetconf.kr/) - 닷넷데브 (2023.05.18)
 
 #### 지난 강연 목록
 - [제 1회 WPF Meetup](https://cafe.naver.com/infragisticskorea/413) - Infragistics (2023.03.23)
