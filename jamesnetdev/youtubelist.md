@@ -1,3 +1,9 @@
+- name: 마샬 언박싱
+  imageUri: https://user-images.githubusercontent.com/101777355/235161701-5d78554e-baf1-4bfb-af95-4a8105f608a4.png
+  uri: https://www.youtube.com/shorts/Vr_LpHK-4i4
+  desc: This is the description for Video 1
+
+
 - name: 맥북 프로 언박싱
   imageUri: https://user-images.githubusercontent.com/52397976/235008907-acbf054e-2dd8-4454-a19e-edc7d3e84dd8.png
   uri: https://www.youtube.com/shorts/VlEaalhEyRo
