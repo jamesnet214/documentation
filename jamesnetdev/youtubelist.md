@@ -1,3 +1,9 @@
+- name: 구양 타임랩스 
+  imageUri: https://user-images.githubusercontent.com/101777355/235370873-bec1f63f-b44f-4803-8c18-7ee4ec3efc84.png
+  uri: https://www.youtube.com/shorts/M4RLMkOX2EY
+  desc: This is the description for Video 1
+
+
 - name: 마샬 언박싱
   imageUri: https://user-images.githubusercontent.com/101777355/235161701-5d78554e-baf1-4bfb-af95-4a8105f608a4.png
   uri: https://www.youtube.com/shorts/Vr_LpHK-4i4
