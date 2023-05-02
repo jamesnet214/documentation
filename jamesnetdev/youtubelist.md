@@ -2,7 +2,7 @@
 
 - name: 홈카페 
   imageUri: https://user-images.githubusercontent.com/101777355/235607861-e1950362-d951-432f-a537-4f11cc68af27.png
-  uri: https://www.youtube.com/shorts/Bwa9lgIM9M4
+  uri: https://www.youtube.com/shorts/2OBcswHjuUI
   desc: This is the description for Video 1
 
 - name: 루믹스 언박싱 
