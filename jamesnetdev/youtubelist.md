@@ -1,3 +1,9 @@
+- name: 페퍼민트티 
+  imageUri: https://user-images.githubusercontent.com/101777355/236766179-9a432b3f-7e25-4c32-838d-ee836ce99cf5.png
+  uri: https://www.youtube.com/shorts/GLmWZGzJeu8
+  desc: This is the description for Video 1
+
+
 - name: 키보드 ASMR 
   imageUri: https://user-images.githubusercontent.com/101777355/236766548-ad88897f-eb94-40e9-8d12-49d901a15098.png
   uri: https://www.youtube.com/shorts/vHd1pekU5RU
