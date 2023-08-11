@@ -85,6 +85,5 @@ display: block;">
 - <font style="font-size: 13px">기타 문의사항이 있으시면 아래 연락처로 연락 주시기 바랍니다: 010-8390-4214.</font>
 
 <br />
-<br />
 
 
