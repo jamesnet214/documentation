@@ -31,7 +31,7 @@
   <tr>
     <td rowspan="2" class="td1"><img src="https://user-images.githubusercontent.com/52397976/233358306-4c2aeda8-f5c0-41c3-9de3-28b29f11b4cd.png" style="max-width: 100px; width:100%"/></td>
     <td class="td2">
-      <font style="font-weight: bold">WPF INSIDE OUT</font> <font style="font-size: 13px;">2023 초판</font>
+      <font style="font-weight: bold">WPF INSIDE OUT</font> <font style="font-size: 13px;">2023</font>
       <br/>
       <font style="font-size: 13px;">Mastering the Fundamentals of mathematics and Advanced Concepts</font>      
     </td>
@@ -42,7 +42,7 @@
     </td>
   </tr>
 </table>
-<font style="font-size: 13px;">전자책(eBook)은 별도로 판매하지 않으며, 종이책 구매시 이메일로 전자책 등록 코드를 발송해드립니다.</font>  
+<font style="font-size: 13px;">전자책(eBook)은 입금 후 웹사이트에서 바로 보실 수 있습니다. 종이책은 개인출판인 관계로 일정 수량을 확보한 후 주문 제작되는 점 양해 부탁드립니다.</font>  
 
 <p/>
 
