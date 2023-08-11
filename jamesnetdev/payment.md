@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td>
-      <font style="font-size: 13px">금액 50,000원 (종이 책 + 전자책 패키지)</font>
+      <font style="font-size: 13px">금액 50,000원 (전자책 + 종이책 패키지) 이벤트 기간 한정</font>
     </td>
   </tr>
 </table>
