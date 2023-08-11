@@ -73,6 +73,8 @@ display: block;">
 </table>
 <font style="font-size: 13px;">카드, 페이결제는 아직 준비중에 있습니다. 그리고 세금계산서 처리는 9월 중으로 준비되는 점 양해 부탁드립니다.</font>  
 
+<br/>
+<br/>
 <p/>
 
 **기타 안내**
